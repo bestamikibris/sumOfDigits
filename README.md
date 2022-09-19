@@ -1,0 +1,2 @@
+# sumOfDigits
+Patika.Dev
